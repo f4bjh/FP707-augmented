@@ -1,0 +1,6 @@
+#ignorer tous les fichiers bak
+src/hw/*bak
+
+*.zip
+*~*
+*.swp
